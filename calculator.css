@@ -1,3 +1,6 @@
+body{
+    background-color:darkslategrey;
+}
 * {
   box-sizing: border-box;  
 }
